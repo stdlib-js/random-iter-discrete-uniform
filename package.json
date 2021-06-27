@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-iter-discrete-uniform",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create an iterator for generating pseudorandom numbers drawn from a discrete uniform distribution.",
   "license": "Apache-2.0",
   "author": {
