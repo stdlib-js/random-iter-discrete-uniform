@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-16)
+## Unreleased (2026-09-11)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`20f2bbe`](https://github.com/stdlib-js/stdlib/commit/20f2bbe30b227a3b17b5bfa509b2f014dbf18cbf) - update require path [(#15155)](https://github.com/stdlib-js/stdlib/pull/15155)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`20f2bbe`](https://github.com/stdlib-js/stdlib/commit/20f2bbe30b227a3b17b5bfa509b2f014dbf18cbf) - **fix:** update require path [(#15155)](https://github.com/stdlib-js/stdlib/pull/15155) _(by Philipp Burckhardt)_
 -   [`fddbb92`](https://github.com/stdlib-js/stdlib/commit/fddbb92925b8417c846356548ace38c51674a318) - **bench:** refactor to use string interpolation in `@stdlib/random-iter` [(#11424)](https://github.com/stdlib-js/stdlib/pull/11424) _(by Karan Anand)_
 
 </details>
@@ -24,9 +35,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
